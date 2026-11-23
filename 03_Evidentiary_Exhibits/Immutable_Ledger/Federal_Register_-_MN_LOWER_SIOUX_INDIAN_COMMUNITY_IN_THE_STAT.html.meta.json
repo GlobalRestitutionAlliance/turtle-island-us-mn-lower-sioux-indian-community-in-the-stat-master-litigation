@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MN+LOWER+SIOUX+INDIAN+COMMUNITY+IN+THE+STAT",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MN+LOWER+SIOUX+INDIAN+COMMUNITY+IN+THE+STAT",
+  "title": "Federal Register - MN LOWER SIOUX INDIAN COMMUNITY IN THE STAT",
+  "fetched_at": "2026-11-23T17:42:29.521646Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 251185,
+  "sha256": "ee588c22a436714a6f9fc3eb5f26d2b426eaa4fb1d8b438df027dd08d078c5c6",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
